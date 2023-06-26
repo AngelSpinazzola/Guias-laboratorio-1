@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1687314319 source:c:\users\angel\onedrive\documentos\utn - angel\irwin´s revenge\tp6_ej14.cpp\funciones.cpp
+	<iostream>
+	<clocale>
+	"funciones.h"
+
+1687313893 c:\users\angel\onedrive\documentos\utn - angel\irwin´s revenge\tp6_ej14.cpp\funciones.h
+
+1687313900 source:c:\users\angel\onedrive\documentos\utn - angel\irwin´s revenge\tp6_ej14.cpp\main.cpp
+	<iostream>
+	<clocale>
+	"funciones.h"
+
+1687314319 source:c:\users\angel\onedrive\documentos\utn - angel\utn 2023 marzo angel\lab 1\tps lab\tp 6 - ej resueltos\tp6 - ej14\funciones.cpp
+	<iostream>
+	<clocale>
+	"funciones.h"
+
+1687313893 c:\users\angel\onedrive\documentos\utn - angel\utn 2023 marzo angel\lab 1\tps lab\tp 6 - ej resueltos\tp6 - ej14\funciones.h
+
+1687313900 source:c:\users\angel\onedrive\documentos\utn - angel\utn 2023 marzo angel\lab 1\tps lab\tp 6 - ej resueltos\tp6 - ej14\main.cpp
+	<iostream>
+	<clocale>
+	"funciones.h"
+

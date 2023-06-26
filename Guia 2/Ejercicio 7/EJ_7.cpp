@@ -14,7 +14,7 @@ int main(){
    cin >> b;
    cin >> c;
 
-   if(a != b && a != c){
+   if(a != b && a != c && b != c){
       cout << "Los 3 son distintos entre si";
    }
 
